@@ -1,0 +1,4 @@
+Round Robin (r = 3)
+Average wait time: 14.10
+Average response time: 7.80
+Average turnaround time: 17.60
